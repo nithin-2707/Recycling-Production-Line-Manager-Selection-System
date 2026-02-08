@@ -17,14 +17,13 @@ A premium, professional dashboard for ranking and evaluating candidates for recy
 - **Responsive Design**: Optimized for all screen sizes
 
 ## 🎨 Design Philosophy
+This dashboard uses a refined, industrial-inspired color palette built around deep blue and neutral tones to create a professional, modern, and readable interface.
 
-This dashboard uses a sophisticated dark theme inspired by deep ocean tones:
-
-- **Ink Black** (#0d1b2a) - Primary background
-- **Prussian Blue** (#1b263b) - Secondary surfaces
-- **Dusk Blue** (#415a77) - Interactive elements
-- **Lavender Grey** (#778da9) - Accent color
-- **Alabaster Grey** (#e0e1dd) - Text and highlights
+- **Ink Black** (#0d1b2a) – Primary background for depth and strong contrast.
+- **Prussian Blue** (#1b263b) – Secondary surfaces such as cards and side panels.
+- **Dusk Blue** (#415a77) – Interactive elements and key UI highlights.
+- **Lavender Grey** (#778da9) – Accent color for subtle emphasis and secondary text.
+- **Alabaster Grey** (#e0e1dd) – Main light tone for backgrounds and readable text.
 
 ## 📋 Project Structure
 
