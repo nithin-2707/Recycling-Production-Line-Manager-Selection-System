@@ -13,7 +13,7 @@ A premium, professional dashboard for ranking and evaluating candidates for recy
 - **Candidate Cards**: Detailed profile cards with comprehensive information
 - **Advanced Filtering**: Search and filter candidates by multiple criteria
 - **Real-time Statistics**: Dashboard metrics and performance indicators
-- **Premium UI Design**: Custom color palette with glassmorphism effects
+- **Premium UI Design**: Premium UI Design: Solid, minimal surfaces with a custom color palette
 - **Responsive Design**: Optimized for all screen sizes
 
 ## 🎨 Design Philosophy
